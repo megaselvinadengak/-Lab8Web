@@ -63,3 +63,23 @@ Buat file baru dengan nama tambah.php
 
 ![tambah1](https://user-images.githubusercontent.com/56498195/120391155-d4395e80-c358-11eb-8995-fdf4bbc02f14.PNG)
 
+
+
+
+#
+Mengubah Data (Update)
+
+Buat file baru dengan nama ubah.php
+
+
+![ubah](https://user-images.githubusercontent.com/56498195/120391667-92f57e80-c359-11eb-9fb8-12e272e2dd19.PNG)
+
+
+
+![ubah1](https://user-images.githubusercontent.com/56498195/120391671-94bf4200-c359-11eb-8982-f9f366b6b13e.PNG)
+
+
+
+![ubah2](https://user-images.githubusercontent.com/56498195/120391677-95f06f00-c359-11eb-8a93-51d26286f8ee.PNG)
+
+
